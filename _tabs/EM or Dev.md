@@ -1,8 +1,8 @@
 ---
-# the default layout is 'page'
-icon: fas fa-bolt
+title: EM/Dev Application
+tabname: EM/Dev
+layout: em_or_dev
+icon: fas fa-bars
 order: 3
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }

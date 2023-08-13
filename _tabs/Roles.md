@@ -1,5 +1,6 @@
 ---
-layout: archives
-icon: fas fa-archive
+title: Roles
+layout: roles
+icon: fas fa-users
 order: 1
 ---
