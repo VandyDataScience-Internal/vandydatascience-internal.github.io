@@ -2,6 +2,6 @@
 title: Contact Us
 layout: contact_us
 icon: fas fa-info-circle
-order: 3
+order: 4
 ---
 
